@@ -1,5 +1,4 @@
-echo "Enter a number"
-read num
+num=10
 
 fact=1
 
